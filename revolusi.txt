@@ -1,0 +1,5 @@
+//Prores sampai mana?
+
+-config network
+-install application
+-..
