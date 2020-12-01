@@ -1,0 +1,1 @@
+# problem_config_lks_smkn1boyolali
