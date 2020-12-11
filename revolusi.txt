@@ -2,4 +2,6 @@
 
 -config network
 -install application
--..
+
+
+define solve must defeate problem
