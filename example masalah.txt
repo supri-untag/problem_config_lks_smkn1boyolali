@@ -1,5 +1,6 @@
 // EROR:
 
+eror code 404 not found the comection
 // Main conf..
 
 //pemecahan masalah
